@@ -35,8 +35,10 @@
   <ol>
     <li>차단기(서보 모터) / 차량 주차 여부(초음파 센서) / 장애인 차량 파악(HM-10블루투스 모듈을 활용한 비콘) / 주변에 장애인차량 존재 여부 파악(제누이노101을 활용한 비콘 탐색)</li>
         <li>Raspberry Pi : 아두이노에서 장애인차량의 MAC ADDRESS파악 후 장애인 차량 MAC　ADDRESS를 가지고 있는 DataBase와 비교 초음파 센서를 통한 주차 여부를 주차 DataBase에 저장( PHP를 활용하여 주차 여부 갱신 확인 ) </li>
-        <img src="https://user-images.githubusercontent.com/37283294/48555389-6822b680-e924-11e8-9cbe-b82be120b511.png"/>
+        <ul>
+        <img src="https://user-images.githubusercontent.com/37283294/48555389-6822b680-e924-11e8-9cbe-b82be120b511.png"/><br>
         그림 1. 일반차량 접근시
+        </ul>
         <img src="https://user-images.githubusercontent.com/37283294/48555395-6a851080-e924-11e8-8488-25d49ba36f62.png"/>
         그림 2. 
         <li>에지 검출과 템플릿 매칭을 활용한 차선 침범 여부 파악 (직선 값의 변화를 파악을 통한 침범 판단) </li>
