@@ -33,7 +33,7 @@
 <ol>
   <h3><li>캡스톤 디자인</li></h3>
   <ol>
-    <li>차단기(서보 모터) / 차량 주차 여부(초음파 센서) / 장애인 차량 파악(HM-10블루투스 모듈을 활용한 비콘) / 주변에 장애인차량 존재 여부 파악(제누이노101을 활용한 비콘 탐색)</li>
+    <li>차단기(서보 모터) / 차량 주차 여부(초음파 센서) / 장애인 차량 파악(HM-10블루투스 모듈을 활용한 비콘) / 주변에 장애인차량 존재 여부 파악(제누이노101을 활용한 비콘 탐색)</li><br>
         <li>Raspberry Pi : 아두이노에서 장애인차량의 MAC ADDRESS파악 후 장애인 차량 MAC　ADDRESS를 가지고 있는 DataBase와 비교 초음파 센서를 통한 주차 여부를 주차 DataBase에 저장( PHP를 활용하여 주차 여부 갱신 확인 ) </li>
         <ul>
         <img src="https://user-images.githubusercontent.com/37283294/48555389-6822b680-e924-11e8-9cbe-b82be120b511.png"/><br>
@@ -45,9 +45,18 @@
         </ul>
         <br>
         <li>에지 검출과 템플릿 매칭을 활용한 차선 침범 여부 파악 (직선 값의 변화를 파악을 통한 침범 판단) </li>
-        <img src="https://user-images.githubusercontent.com/37283294/48555399-6e189780-e924-11e8-893b-51aada1bcf4b.png"/>
-        <img src="https://user-images.githubusercontent.com/37283294/48555403-707af180-e924-11e8-83b8-d7370f75e560.png"/>
-        <img src="https://user-images.githubusercontent.com/37283294/48555405-72dd4b80-e924-11e8-9f98-273599e8c1f0.png"/>
+        <ul>
+        <img src="https://user-images.githubusercontent.com/37283294/48555399-6e189780-e924-11e8-893b-51aada1bcf4b.png"/><br>
+        그림 3. 에지 검출한 동영상
+        </ul>
+        <ul>
+        <img src="https://user-images.githubusercontent.com/37283294/48555403-707af180-e924-11e8-83b8-d7370f75e560.png"/><br>
+        그림 4. 탬플릿 매칭할 비교 이미지
+        </ul>
+        <ul>
+        <img src="https://user-images.githubusercontent.com/37283294/48555405-72dd4b80-e924-11e8-9f98-273599e8c1f0.png"/><br>
+        그림 5. 그림 3과 그림 4와의 템플릿 매칭을 통해 얻은 
+        </ul>
   </ol>
 </ol>
 
