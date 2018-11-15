@@ -63,7 +63,36 @@
           <li>차선 침범시 부저 및 LED 작동 : https://youtu.be/49GRxaLLxJM</li>
           <li>블루투스 비콘을 사용한 주차장 차단기 : https://youtu.be/3ID35AJobgA</li>
     </ul>
+  </ol><br>
+  <h3><li>매장 & 주방 연동 시스템(POS기기)</li></h3>
+  <ol>
+    <li>파일 입출력을 활용한 POS기기 구현</li>
+    <li>깃허브 주소 : https://github.com/DONGYYYYY/POS</li>
+    <li>시연 동영상 주소 : https://www.youtube.com/watch?v=FstPrcxi2eg </li>
+  </ol><br>
+  <h3><li>마리오 게임</li></h3>
+  <ol>
+    <li>Android Studio를 사용하여 Custom View를 활용한 image Sprite 충돌 판정을 활용한 마리오 게임 구현</li>
+    <li>깃허브 주소 : https://github.com/DONGYYYYY/MarioGame</li>
+    <li>시연 동영상 주소 : https://youtu.be/C4t4fhh5qhA </li>
   </ol>
+  <br>
+  <h3><li>캠핑장 어플</li></h3>
+  <ol>
+    <li>Android Studio</li>
+      <ul>
+        <li>기상청 , 공공 데이터 포럼에서 제공하는 API를 사용하여 캠핑장 정보, 날씨정보를 JSON형식으로 읽어서 활용</li>
+        <li>Spring-boot프로젝트가 가지고 있는 DB내용을 get,post방식을 사용하여 이용 ( 한줄평 )</li>
+        <li>Android Studio소스에 해당하는 github 주소 : https://github.com/DONGYYYYY/SeoulCamp_ver1</li>
+      </ul>
+    <li>Spring boot ( STS 사용 )</li>
+      <ul>
+        <li>한줄평에 사용 될 데이터베이스를 관리하는 Spring-boot프로젝트를 STS를 사용하여 구현</li>
+        <li>Spring-boot소스에 해당하는 github 주소 : https://github.com/DONGYYYYY/Seoul-Camping_server</li>
+    </ul>
+    <li>Android Studio 와 Spring-boot는 git commit을 통하여 push & pull을 하여 협동작업을 진행
+  </ol>
+  
 </ol>
 
 
