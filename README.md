@@ -153,6 +153,7 @@
   </ul>
   <li>node.js</li>
   <li>Android Studio</li>
+  <li>English...</li>
   <li>every Programing skills...</li>
 </ol>
 
