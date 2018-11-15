@@ -145,5 +145,14 @@
   </br>
 </ol>
 
-
+<h2>현재 연구중인 내용</h2>
+<ol>
+  <li>Deep Learning</li>
+  <ul>
+    <li>Using Tensorflow (python)</li>
+  </ul>
+  <li>node.js</li>
+  <li>Android Studio</li>
+  <li>every Programing skills...</li>
+</ol>
 
