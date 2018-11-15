@@ -90,9 +90,57 @@
         <li>한줄평에 사용 될 데이터베이스를 관리하는 Spring-boot프로젝트를 STS를 사용하여 구현</li>
         <li>Spring-boot소스에 해당하는 github 주소 : https://github.com/DONGYYYYY/Seoul-Camping_server</li>
     </ul>
-    <li>Android Studio 와 Spring-boot는 git commit을 통하여 push & pull을 하여 협동작업을 진행
+    <li>Android Studio 와 Spring-boot는 git commit을 통하여 push & pull을 하여 협동작업을 진행</li>
   </ol>
-  
+  <br>
+  <h3><li>동물병원 예약 어플 ( 진행중 )</li></h3>
+      <li>Android Studio</li>
+      <ul>
+        <li>서울시 공공데이터에서 동물병원 정보 API활용 예정 </li>
+        <li>Spring-boot프로젝트가 가지고 있는 DB내용을 get,post방식을 사용하여 이용 예정 ( 한줄평 , 계정 정보 , 병원 예약내용)</li>
+        <li>Android Studio소스에 해당하는 github 주소 : https://github.com/DONGYYYYY/Petspital_ver0</li>
+      </ul>
+    <li>Spring boot ( STS 사용 )</li>
+      <ul>
+        <li>한줄평, 계정 정보, 병원 예약내용에 사용 될 데이터베이스를 관리하는 Spring-boot프로젝트를 STS를 사용하여 구현</li>
+    </ul>
+  <li>Android Studio 와 Spring-boot는 git commit을 통하여 push & pull을 하여 협동작업을 진행중</li>
+  <li>최종적으로 동물병원 예약 시스템을 어플을 통해서 할 수 있도록 만들 예정 ( 프로젝트 진행중인 단계 )</li>
+  <br>
+   <h3><li>Linux & C를 활용한 프로젝트</li></h3>
+  <ul>
+    <li>서버와 클라이언트간의 중복 파일 검색 서버 & 클라이언트 설계 및 구현 / 블록 기반 해쉬함수 및 스레드를 활용</li>
+  </ul>
+  <br>
+     <h3><li>OpenCV : 차연산을 활용한 횡단보도 안전 시스템 </li></h3>
+      <ol>
+        <li>OpenCV에서 차연산을 활용하여 일정 주기 단위( 신호등 빨간불,파란불 ) 에 따른 Tracking & 동영상 저장 및 캡쳐 프로그램</li>
+        <li>깃허브 주소 : https://github.com/DONGYYYYY/OpenCV_Project </li>
+        <li>시연 동영상 주소 : https://youtu.be/5CYLx_UwrsA </li>        
+  </ol>
+  <br>
+  <h3><li>Arduino를 활용한 프로젝트</li></h3>
+  <ul>
+    <li>스마트폰 음성 인식을 통한 아두이노 센서 원격 제어 ( 초음파 센서 , LED 센서 , 부저 , 온습도 센서 , LCD 등 ) L</li>
+  </ul>
+  </br>
+  <h3><li>향수 제어 프로젝트</li></h3>
+  <ol>
+    <li>Raspberry PI</li>
+     <ul>
+       <li>MagicMirror 오픈소스를 활용하여 UI 구성</li>
+       <li>음성인식을 하기 위해서 Google API활용하여 음성인식을 사용</li>
+       <li>필요 대화 내용을 js파일을 수정하여 향수를 음성으로 작동할 수 있도록 사용 ( 시리얼통신을 할때 system call을 활용하여 작동 ) </li>
+       <li>MagicMirror 오픈소스 깃허브 주소 : https://github.com/MichMich/MagicMirror</li>
+    </ul>
+    <li>Arduino</li>
+     <ul>
+       <li>라즈베리파이에서 시리얼 통신으로 받은 값에 따라 해당 향수 작동 ( Servo모터 두개를 활용 )</li>
+       <li>적외선 거리 센서의 값이 일정 값 이하일 경우에 적외선 거리 센서 위치에 해당하는 향수를 뿌리도록 작동 ( 향수 작동은 위와 동일 ) </li>
+       <li>Arduino소스에 해당하는 깃허브 주소 : https://github.com/DONGYYYYY/Sopoong_automaticPerformance</li>
+     </ul>
+  </ol>
+  </br>
 </ol>
 
 
