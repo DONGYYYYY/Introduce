@@ -6,7 +6,7 @@
   <li>성별 : 남</li>
   <li>생년월일 : 1994.02.18</li>
   <li>Email : dongyoung0218@gmail.com</li>
-  <li>github : https://github.com/DONGYYYYY</li>
+  <li>Github : https://github.com/DONGYYYYY</li>
 </ul>
 
 <h2>학력사항</h2>
