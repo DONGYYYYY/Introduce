@@ -11,6 +11,6 @@
 <h2>학력사항</h2>
 <ul>
   <li>한림대학교 재학 ( 2012 ~ 2018 )</li>    
+  <img src="https://user-images.githubusercontent.com/37283294/48554422-b1253b80-e921-11e8-8639-032e9c7f3b3f.jpg" width="200px" height="200px></img>
 </ul>
 
-<img src="https://user-images.githubusercontent.com/37283294/48554422-b1253b80-e921-11e8-8639-032e9c7f3b3f.jpg" width="200px" height="200px></img>
