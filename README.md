@@ -105,16 +105,6 @@
   <br>
   <h3><li>동물병원 예약 어플 ( 진행중 )</li></h3>
   <ol>
-      <li>Android Studio</li>
-      <ul>
-        <li>서울시 공공데이터에서 동물병원 정보 API활용 예정 </li>
-        <li>Spring-boot프로젝트가 가지고 있는 DB내용을 get,post방식을 사용하여 이용 예정 ( 한줄평 , 계정 정보 , 병원 예약내용)</li>
-        <li>Android Studio소스에 해당하는 github 주소 : https://github.com/DONGYYYYY/Petspital_ver0</li>
-      </ul>
-    <li>Spring boot ( STS 사용 )</li>
-      <ul>
-        <li>한줄평, 계정 정보, 병원 예약내용에 사용 될 데이터베이스를 관리하는 Spring-boot프로젝트를 STS를 사용하여 구현</li>
-    </ul>
   <li>Android Studio 와 Spring-boot는 git commit을 통하여 push & pull을 하여 협동작업을 진행중</li>
   <li>최종적으로 동물병원 예약 시스템을 어플을 통해서 할 수 있도록 만들 예정 ( 프로젝트 진행중인 단계 )</li>
   </ol>
