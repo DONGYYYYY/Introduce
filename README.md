@@ -94,6 +94,7 @@
   </ol>
   <br>
   <h3><li>동물병원 예약 어플 ( 진행중 )</li></h3>
+  <ol>
       <li>Android Studio</li>
       <ul>
         <li>서울시 공공데이터에서 동물병원 정보 API활용 예정 </li>
@@ -106,6 +107,7 @@
     </ul>
   <li>Android Studio 와 Spring-boot는 git commit을 통하여 push & pull을 하여 협동작업을 진행중</li>
   <li>최종적으로 동물병원 예약 시스템을 어플을 통해서 할 수 있도록 만들 예정 ( 프로젝트 진행중인 단계 )</li>
+  </ol>
   <br>
    <h3><li>Linux & C를 활용한 프로젝트</li></h3>
   <ul>
