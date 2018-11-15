@@ -55,8 +55,14 @@
         </ul>
         <ul>
         <img src="https://user-images.githubusercontent.com/37283294/48555405-72dd4b80-e924-11e8-9f98-273599e8c1f0.png"/><br>
-        그림 5. 그림 3과 그림 4와의 템플릿 매칭을 통해 얻은 
+        그림 5. 그림 3과 그림 4와의 템플릿 매칭을 통해 얻은 유사값
         </ul>
+        <li>깃허브 주소 : https://github.com/DONGYYYYY/Bluetooth-based-handicapped-parking-area-system</li>
+        <li>시연 동영상 주소</li>
+        <ul>
+          <li>차선 침범시 부저 및 LED 작동 : https://youtu.be/49GRxaLLxJM</li>
+          <li>블루투스 비콘을 사용한 주차장 차단기 : https://youtu.be/3ID35AJobgA</li>
+    </ul>
   </ol>
 </ol>
 
