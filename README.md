@@ -18,9 +18,9 @@
 <h2>사용 기술</h2>
 <ul>
   <li>C</li>
-  <li>+OpenCV</li>
+  <li>OpenCV</li>
   <li>JAVA</li>
-  <li>+Android Studio</li>
+  <li>Android Studio</li>
   <li>C++</li>
   <li>Python</li>
   <li>Linux</li>
