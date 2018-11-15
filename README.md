@@ -140,7 +140,7 @@
     <li>Raspberry PI</li>
      <ul>
        <li>MagicMirror 오픈소스를 활용하여 UI 구성</li>
-       <li>음성인식을 하기 위해서 Google API활용하여 음성인식을 사용</li>
+       <li>음성인식을 하기 위해서 Google Assistant API활용하여 음성인식을 사용</li>
        <li>필요 대화 내용을 js파일을 수정하여 향수를 음성으로 작동할 수 있도록 사용 ( 시리얼통신을 할때 system call을 활용하여 작동 ) </li>
        <li>MagicMirror 오픈소스 깃허브 주소 : https://github.com/MichMich/MagicMirror</li>
     </ul>
