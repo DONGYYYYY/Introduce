@@ -13,4 +13,4 @@
   <li>한림대학교 재학 ( 2012 ~ 2018 )</li>    
 </ul>
 
-<img src="https://user-images.githubusercontent.com/37283294/48554422-b1253b80-e921-11e8-8639-032e9c7f3b3f.jpg" width="200px" height="200px/>
+<img src="https://user-images.githubusercontent.com/37283294/48554422-b1253b80-e921-11e8-8639-032e9c7f3b3f.jpg" width="200px" height="200px></img>
