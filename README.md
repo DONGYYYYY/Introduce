@@ -23,14 +23,16 @@
   <li>C++</li>
   <li>Python</li>
   <li>Linux</li>
-  <li>Raspberry PI<li>
+  <li>Raspberry PI</li>
   <li>Arduino</li>
-  <li>MySQL<li>
+  <li>MySQL</li>
 </ul>
 
 <h2>프로젝트</h2>
 
-1.캡스톤 디자인 : 장애인 주차관리 시스템
+<ol>
+  <li>캡스톤 디자인</li>
+</ol>
 
 
 
