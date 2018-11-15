@@ -39,8 +39,10 @@
         <img src="https://user-images.githubusercontent.com/37283294/48555389-6822b680-e924-11e8-9cbe-b82be120b511.png"/><br>
         그림 1. 일반차량 접근시
         </ul>
-        <img src="https://user-images.githubusercontent.com/37283294/48555395-6a851080-e924-11e8-8488-25d49ba36f62.png"/>
-        그림 2. 
+        <ul>
+        <img src="https://user-images.githubusercontent.com/37283294/48555395-6a851080-e924-11e8-8488-25d49ba36f62.png"/><br>
+        그림 2. 장애인차량 접근시
+        </ul>
         <li>에지 검출과 템플릿 매칭을 활용한 차선 침범 여부 파악 (직선 값의 변화를 파악을 통한 침범 판단) </li>
         <img src="https://user-images.githubusercontent.com/37283294/48555399-6e189780-e924-11e8-893b-51aada1bcf4b.png"/>
         <img src="https://user-images.githubusercontent.com/37283294/48555403-707af180-e924-11e8-83b8-d7370f75e560.png"/>
