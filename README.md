@@ -70,15 +70,15 @@
         <li>깃허브 주소 : https://github.com/DONGYYYYY/Bluetooth-based-handicapped-parking-area-system</li>
         <li>시연 동영상 주소</li>
         <ul>
-          <li>차선 침범시 부저 및 LED 작동 : [youtube시연동영상](https://youtu.be/49GRxaLLxJM)</li>
-          <li>블루투스 비콘을 사용한 주차장 차단기 : [youtube시연동영상](https://youtu.be/3ID35AJobgA)</li>
+          <li>차선 침범시 부저 및 LED 작동 : https://youtu.be/49GRxaLLxJM</li>
+          <li>블루투스 비콘을 사용한 주차장 차단기 : https://youtu.be/3ID35AJobgA</li>
     </ul>
   </ol><br>
   <h3><li>매장 & 주방 연동 시스템(POS기기)</li></h3>
   <ol>
     <li>파일 입출력을 활용한 POS기기 구현</li>
-    <li>깃허브 주소 : [C++ Source](https://github.com/DONGYYYYY/POS) </li>
-    <li>시연 동영상 주소 : [youtube시연동영상](https://www.youtube.com/watch?v=FstPrcxi2eg) </li>
+    <li>깃허브 주소 : https://github.com/DONGYYYYY/POS </li>
+    <li>시연 동영상 주소 : https://www.youtube.com/watch?v=FstPrcxi2eg </li>
   </ol><br>
   <h3><li>마리오 게임</li></h3>
   <ol>
