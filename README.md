@@ -119,8 +119,8 @@
       <li>병원에서 완료된 진료를 삭제할 수 있다.</li>
     </ul>
     <li>해당 기능을 spring-boot을 통해서 서버를 만들고 이를 통해서 db정보를 가져오며 android studio에서는 공공데이터와 db내용 파싱을 통해서 정보를 가져온다.</li>
-    <li>안드로이드 스튜디오 깃허브 주소 : </li>
-    <li>서버 깃허브 주소 : </li>
+    <li>안드로이드 스튜디오 깃허브 주소 : https://github.com/DONGYYYYY/Petspital_ver0 </li>
+    <li>서버 깃허브 주소 : https://github.com/DONGYYYYY/petspital_Server </li>
   </ol>
   <br>
    <h3><li>Linux & C를 활용한 프로젝트</li></h3>
