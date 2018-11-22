@@ -159,7 +159,7 @@
   </br>
 </ol>
 
-<h2>현재 공부중인 용</h2>
+<h2>현재 공부중인 내용</h2>
 <ol>
   <li>Deep Learning</li>
   <ul>
