@@ -1,4 +1,4 @@
-<h1>이력서</h1>   
+<h1>Resume ( CV )</h1>   
 <h2>소개</h2>                                                                                                                                 
 <ul>
   <img src="https://user-images.githubusercontent.com/37283294/48554860-e4b49580-e922-11e8-99cc-a022c4c6cc17.jpg"/>
